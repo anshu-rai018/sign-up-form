@@ -34,6 +34,7 @@
     background: #ffe805;
     margin: 10px auto 50px auto;
     border-radius: 5px;
+    transition: transform 0.5s;
 }
 .input-field{
     background: #eaeaea;
@@ -45,6 +46,7 @@
     max-height: 60px;
     transition: max-height 0.5s;
     overflow: hidden;
+
 }
 .input-field input{
     width: 100%;
